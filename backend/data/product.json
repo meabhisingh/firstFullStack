@@ -1,0 +1,13 @@
+[
+    {
+        "name": "ABhishek",
+        "price": 200,
+        "description": "The most fasanating men on the planet",
+        "rating": 5,
+        "category": "Laptops",
+        "seller": "Ebay",
+        "stock": 50,
+        "numOfReviews": 1,
+        "reviews": []
+    }
+]
